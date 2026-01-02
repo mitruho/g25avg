@@ -12,6 +12,6 @@
           then average group means equally (prevents sample-count imbalance)
 ### Usage
 ```
-python g25_average.py <input_file> --mode grouped --out <output_file>
+python g25_average.py <input_file> --mode <mode> --out <output_file>
 ```
 after which you will be prompted to name the resulting coordinates
